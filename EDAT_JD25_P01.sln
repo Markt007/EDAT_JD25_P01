@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.NumerosAleatorios", "UI.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncionesLambda", "FuncionesLambda\FuncionesLambda.csproj", "{5AC7CEC5-9412-4C3B-A78C-C0307AB4A02B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplejidadAlgoritmos", "ComplejidadAlgoritmos\ComplejidadAlgoritmos.csproj", "{FE193359-A598-4245-892B-1F671E9B2F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5AC7CEC5-9412-4C3B-A78C-C0307AB4A02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC7CEC5-9412-4C3B-A78C-C0307AB4A02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC7CEC5-9412-4C3B-A78C-C0307AB4A02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE193359-A598-4245-892B-1F671E9B2F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE193359-A598-4245-892B-1F671E9B2F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE193359-A598-4245-892B-1F671E9B2F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE193359-A598-4245-892B-1F671E9B2F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
